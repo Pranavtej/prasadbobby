@@ -1,6 +1,6 @@
 <div align="center">
   <a href='http://prasadbobby.me'>
-    <img src="https://raw.githubusercontent.com/raisedadead/raisedadead/master/cover.svg?sanitize=true" width='91.75%'/>
+    <img src="https://raw.githubusercontent.com/prasadbobby/prasadbobby/master/cover.svg?sanitize=true" width='91.75%'/>
   </a>
 </div>
 
