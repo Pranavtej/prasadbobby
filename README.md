@@ -68,7 +68,7 @@
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=prasadbobby&show_icons=true)](https://github-readme-stats.vercel.app/api?username=prasadbobby&show_icons=true)
 <br/>
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadbobby&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadbobby&layout=compact)
+[![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadbobby&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadbobby&show_icons=true)
 
 
 
